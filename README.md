@@ -1,2 +1,2 @@
-# anlp_projectw
+# anlp_project
 Presupposed taxonomies
